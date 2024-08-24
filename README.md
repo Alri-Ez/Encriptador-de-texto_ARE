@@ -1,4 +1,10 @@
-<h1>Encriptador de Texto</h1>
+<h1 align="center">Encriptador de Texto</h1>
+
+![Static Badge](https://img.shields.io/badge/Primer_Desaf%C3%ADo-black)
+![Static Badge](https://img.shields.io/badge/Status-Completado-black)
+![Static Badge](https://img.shields.io/badge/release_date-august-red)
+
+![Muñeco utilizado dentro del proyecto](https://github.com/user-attachments/assets/15e0b2ce-577e-453a-a42d-b6fb76731b8b)
 
 - Estado del proyecto: Completo en elementos y funciones. Con posibles mejoras en la parte visual (CSS) de algunos elementos.
 - La página es responsiva.
@@ -7,8 +13,12 @@
 
 Al finalizar mi proyecto, pude decifrar el mensaje secreto del challenge:
 
-**'fenterlimescimesdaidenters poberr enternfrenterntair enterstenter dentersaifimesober y haibenterrlober cobernclufatimesdober cobern enterximestober!'**
+<p align="center"> 
+  <strong> 'fenterlimescimesdaidenters poberr enternfrenterntair enterstenter dentersaifimesober y haibenterrlober cobernclufatimesdober cobern enterximestober!' </strong>
+</p>
 
 significa: 
 
-*'felicidades por enfrentar este desafio y haberlo concluido con exito!'*
+<p align="center"> 
+  <em> 'felicidades por enfrentar este desafio y haberlo concluido con exito!' </em>
+</p>
